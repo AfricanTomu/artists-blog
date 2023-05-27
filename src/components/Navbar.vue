@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>Artist 360</h1>
+    <h1>Artist Blog 360</h1>
     <nav>
       <div class="links">
         <router-link :to="{ name: 'HomeView' }">Home</router-link>
