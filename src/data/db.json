@@ -1,0 +1,116 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Rajj Daniels",
+      "album": "African Holiday",
+      "SpotifyPlays": "123k",
+      "tagline": "we are here to conquor the world of music",
+      "ganre": [
+        "afro",
+        "rumba",
+        "zouk",
+        "lugafro"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Tomu",
+      "album": "deep Things",
+      "SpotifyPlays": "1.2k",
+      "tagline": "our music will never go unnoticed",
+      "ganre": [
+        "afro",
+        "amampiano",
+        "zouk",
+        "lugafro"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Zilas",
+      "album": "Flower Pads",
+      "SpotifyPlays": "12M",
+      "tagline": "we are building a legacy in music",
+      "ganre": [
+        "afro",
+        "rumba",
+        "zouk",
+        "afro-beats"
+      ]
+    },
+    {
+      "name": "eddy kenzo",
+      "album": "african music",
+      "SpotifyPlays": "123k",
+      "tagline": "we come from Africa the land of beauty",
+      "ganre": [
+        "joro",
+        "kebo",
+        "piki",
+        "afilika"
+      ],
+      "id": 36
+    },
+    {
+      "name": "Ziza Bafana",
+      "album": "Katonda Wa Ragga",
+      "SpotifyPlays": "1234k",
+      "tagline": "This album was inpired by the way different ghetto yuts in the creative industry innovate to create something magical.",
+      "ganre": [
+        "jongo",
+        "afro",
+        "band",
+        "rnb"
+      ],
+      "id": 37
+    },
+    {
+      "name": "Ziza Bafana",
+      "album": "Katonda Wa Ragga",
+      "SpotifyPlays": "1234k",
+      "tagline": "This album was inpired by the way different ghetto yuts in the creative industry innovate to create something magical.",
+      "ganre": [
+        "jongo",
+        "afro",
+        "band",
+        "rnb"
+      ],
+      "id": 38
+    },
+    {
+      "name": "ssd",
+      "album": "one dance",
+      "SpotifyPlays": "13245k",
+      "tagline": "eyeyeyyeye thrgdgdhdhdh",
+      "ganre": [
+        "hfgt",
+        "jeyeye"
+      ],
+      "id": 39
+    },
+    {
+      "name": "gd",
+      "album": "dd",
+      "SpotifyPlays": "ddd",
+      "tagline": "ddddddd",
+      "ganre": [
+        "ddd"
+      ],
+      "id": 40
+    },
+    {
+      "name": "Jah fil",
+      "album": "kisosooto",
+      "SpotifyPlays": "2345k",
+      "tagline": "The only album that bring about the only that will bring the on theyt",
+      "ganre": [
+        "afro",
+        "afrofusion",
+        "afropop",
+        "raga"
+      ],
+      "id": 41
+    }
+  ]
+}
